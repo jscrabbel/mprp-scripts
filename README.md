@@ -1,1 +1,1 @@
-# mprp-scripts
+Add to your server.cfg
